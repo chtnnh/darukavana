@@ -1,0 +1,12 @@
+{
+  "trashOption": "none",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "images",
+  "showUnsupportedFiles": true
+}
