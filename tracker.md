@@ -13,7 +13,9 @@ permalink: /projects/tracker
 
 # Projects Tracker
 
+
 ## tech
+
 
 - djDemocracy
 - AI Learning
@@ -21,7 +23,11 @@ permalink: /projects/tracker
 
 ## writing
 
+
 - my words will always fail me
+  - writing
+  - editing
+  - manuscript publish
   - writing
   - editing
   - manuscript publish
@@ -30,9 +36,15 @@ permalink: /projects/tracker
 
 ## personal
 
-- https://www.chtnnh.site
+- <https://www.chtnnh.site>
 - obsidian customization
 - digital life optimization
+  - cloud backups
+  - cloud data deletes
+  - social media profiles
+  - personal (work-related) identity
+  - personal (work-related) discovery
+  - software subscriptions
   - cloud backups
   - cloud data deletes
   - social media profiles
@@ -44,6 +56,12 @@ permalink: /projects/tracker
   - taxation
   - savings
   - investments
+  - trackers (everywhere, thank you)
+  - taxation
+  - savings
+  - investments
 - learning
+  - reading non-fiction
+  - listening to podcasts
   - reading non-fiction
   - listening to podcasts
