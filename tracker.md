@@ -13,16 +13,13 @@ permalink: /projects/tracker
 
 # Projects Tracker
 
-
 ## tech
-
 
 - djDemocracy
 - AI Learning
 - [music](https://instagram.com/chtnyh)
 
 ## writing
-
 
 - my words will always fail me
   - writing
